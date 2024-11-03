@@ -1,0 +1,45 @@
+[{
+    "id": 1,
+    "name": "Laptop",
+    "category":"video",
+    "brand" :"samsung",
+    "price" :199.99,
+    "stock":20,
+    "image":"../images/watch.png" ,
+    "discription":"Give yourself a smartphone that recognises your emotions and responds appropriately. The Samsung Galaxy S23 5G's enhanced AI and Nightography feature produces low-light photos and videos that are vivid and colourful from dusk to dawn and back again. The Snapdragon processor in this phone also offers quick video streaming and gaming. Additionally, adaptive 120 Hz makes scrolling fluid, and Eye Comfort Shield guards against eye fatigue even while looking in low light."
+
+}
+,{
+    "id": 2,
+    "name": "I phone",
+    "category":"video",
+    "brand" :"samsung",
+    "price" :199.99,
+    "stock":20,
+    "image":"./image/samsung" ,
+    "discription":"Give yourself a smartphone that recognises your emotions and responds appropriately. The Samsung Galaxy S23 5G's enhanced AI and Nightography feature produces low-light photos and videos that are vivid and colourful from dusk to dawn and back again. The Snapdragon processor in this phone also offers quick video streaming and gaming. Additionally, adaptive 120 Hz makes scrolling fluid, and Eye Comfort Shield guards against eye fatigue even while looking in low light."
+
+},
+{
+    "id": 3,
+    "name": "Speaker",
+    "category":"video",
+    "brand" :"SAMSUNG Galaxy S23 5G (Lavender, 256 GB)",
+    "price" :199.99,
+    "stock":20,
+    "image":"../image/samsung" ,
+    "discription":"Give yourself a smartphone that recognises your emotions and responds appropriately. The Samsung Galaxy S23 5G's enhanced AI and Nightography feature produces low-light photos and videos that are vivid and colourful from dusk to dawn and back again. The Snapdragon processor in this phone also offers quick video streaming and gaming. Additionally, adaptive 120 Hz makes scrolling fluid, and Eye Comfort Shield guards against eye fatigue even while looking in low light."
+
+},
+{
+    "id": 4,
+    "name": "headphones",
+    "category":"video",
+    "brand" :"samsung",
+    "price" :199.99,
+    "stock":20,
+    "image":"../image/samsung" ,
+    "discription":"Give yourself a smartphone that recognises your emotions and responds appropriately. The Samsung Galaxy S23 5G's enhanced AI and Nightography feature produces low-light photos and videos that are vivid and colourful from dusk to dawn and back again. The Snapdragon processor in this phone also offers quick video streaming and gaming. Additionally, adaptive 120 Hz makes scrolling fluid, and Eye Comfort Shield guards against eye fatigue even while looking in low light."
+
+}
+]
